@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I enjoy building full-stack applications and playing with new Technologies
+I'm Chinthaka Bandara, A Software Engineer specializing in building Web Applications, APIs and Desktop Application using (ASP).NET Core and MERN stack
 
-🌱 I’ve blogged here for over 10 years https://chindaara.blogspot.com/
-
-💬 Ask me about: React, dotNet, MSSQL
-
-#### What I'm learning:
-- MERN Stack
-- PowerShell
+- 🌱 I write articles, tutorials, code snippets at my blog  [Chinthaka's Blog Page](https://chindaara.blogspot.com/)
+- 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/chinthaka-bandara/)
