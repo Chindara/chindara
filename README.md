@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chindara&label=Profile%20views&color=0e75b6&style=flat" alt="chindara" /> </p>
 
-- 🌱 I’m currently learning **MERN, SPFx, Power Platform**
+- 🌱 I’m currently learning **.Net Core Microservices using Clean Architecture, Power Platform, MERN Stack,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chindara](https://github.com/Chindara)
 
 - 📝 I regularly write articles on [https://chindaara.blogspot.com/](https://chindaara.blogspot.com/), [https://dev.to/chindara](https://dev.to/chindara)
 
-- 💬 Ask me about **MERN, SPFx, Power Platform**
+- 💬 Ask me about **C#, MERN, Power Platform**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
