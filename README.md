@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ApexChart map colors to labels](https://dev.to/chindara/apexchart-map-colors-to-labels-h3g)
+- [How to map colors &amp; labels in ApexChart](https://dev.to/chindara/apexchart-map-colors-to-labels-h3g)
 - [PowerShell Script Not Digitally Signed](https://dev.to/chindara/powershell-script-not-digitally-signed-2b3f)
 - [Node Version Manager](https://dev.to/chindara/node-version-manager-47bb)
 - [SonarQube + Docker + .NET Core Code Analysis](https://dev.to/chindara/sonarqube-docker-net-core-code-analysis-44)
