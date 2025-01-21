@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Multi-Factor Authentication &lpar;MFA&rpar; in .NET Applications](https://dev.to/chindara/implementing-multi-factor-authentication-mfa-in-net-applications-4j53)
 - [How to map colors &amp; labels in ApexChart](https://dev.to/chindara/apexchart-map-colors-to-labels-h3g)
 - [PowerShell Script Not Digitally Signed](https://dev.to/chindara/powershell-script-not-digitally-signed-2b3f)
 - [Node Version Manager](https://dev.to/chindara/node-version-manager-47bb)
-- [SonarQube + Docker + .NET Core Code Analysis](https://dev.to/chindara/sonarqube-docker-net-core-code-analysis-44)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
